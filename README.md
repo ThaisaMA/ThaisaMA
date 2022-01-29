@@ -1,4 +1,4 @@
-<img src="" alt="Hi, I'm Thaísa 👋 I'm a 🇧🇷 developer! ❤️ Welcome ❤️" style="max-width: 100%;">
+<img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Thaísa 👋 I'm a 🇧🇷 developer! ❤️ Welcome ❤️" style="max-width: 100%;">
 
 ## Olá meu nome é Thaísa!
 
