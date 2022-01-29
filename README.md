@@ -1,3 +1,5 @@
+<img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️" style="max-width: 100%;">
+
 ## Olá meu nome é Thaísa!
 
 <div align="center">
