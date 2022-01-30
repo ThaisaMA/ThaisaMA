@@ -16,9 +16,10 @@
 
 <div align="center" >
   <a href="https://github.com/ThaisaMA?tab=repositories">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThaisaMA&show_icons=true&theme=vue&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=ffffff"/>
-  <img height="150em" display=flex justify-content=space-between src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisaMA&layout=compact&langs_count=7&theme=vue&title_color=2FC18C&bg_color=ffffff"/>
-  </a href>
+ <p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ThaisaMA&show_icons=true&count_private=true&theme=vue&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisaMA&layout=compact&hide_border=true&theme=vue&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ThaisaMA&theme=vue&hide_border=true&background=FFFFFF00">
 </div>
 
 
@@ -44,10 +45,6 @@
 </div>
 --
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ThaisaMA&show_icons=true&count_private=true&theme=vue&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisaMA&layout=compact&hide_border=true&theme=vue&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ThaisaMA&theme=vue&hide_border=true&background=FFFFFF00">
-  <br>
+
   <br>
 
