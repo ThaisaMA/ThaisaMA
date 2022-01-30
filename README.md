@@ -15,8 +15,8 @@
 ---
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThaisaMA&show_icons=true&theme=vue&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=ffffff"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisaMA&layout=compact&langs_count=7&theme=vue&title_color=2FC18C&bg_color=ffffff"/>
+  <img height="150em" display=flex justify-content=space-between src="https://github-readme-stats.vercel.app/api?username=ThaisaMA&show_icons=true&theme=vue&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=ffffff"/>
+  <img height="150em" display=flex justify-content=space-between src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisaMA&layout=compact&langs_count=7&theme=vue&title_color=2FC18C&bg_color=ffffff"/>
 </div>
 
 
