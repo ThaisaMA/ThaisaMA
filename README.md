@@ -19,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisaMA&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
 </div>
 
----
+
 
 ### Ferramentas e tecnologias que utilizo:
 
