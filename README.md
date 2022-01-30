@@ -2,7 +2,7 @@
 ## Olá meu nome é Thaísa!
 
 <div align="center">
-  <img height="150px" align="right" src="" />
+  <img height="150px" align="right" src="https://static.vecteezy.com/ti/vetor-gratis/p1/1962270-papel-aviao-criativo-simbolo-continuo-uma-linha-desenho-estilo-minimalista-vetor.jpg" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 Estudante de Desenvolvemento de Software na Trybe</li>
     <li>- 🌱 Aprendendo SGBD-MySQL</li>
