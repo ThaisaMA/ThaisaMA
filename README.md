@@ -2,7 +2,7 @@
 ## Olá meu nome é Thaísa!
 
 <div align="center">
-  <img height="150px"  margin=10px src="https://images.vexels.com/media/users/3/145066/isolated/preview/9eee08cd0243443fb95d824856e6d5a7-ilustracao-de-aviao-de-papel.png" />
+  <img height="250px" align="right" src="https://images.vexels.com/media/users/3/145066/isolated/preview/9eee08cd0243443fb95d824856e6d5a7-ilustracao-de-aviao-de-papel.png" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 Estudante de Desenvolvemento de Software na Trybe</li>
     <li>- 🌱 Aprendendo SGBD-MySQL</li>
