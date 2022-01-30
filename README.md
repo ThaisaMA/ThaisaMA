@@ -2,7 +2,7 @@
 ## Olá meu nome é Thaísa!
 
 <div align="center">
-  <img height="250px" align="right" src="https://images.vexels.com/media/users/3/145066/isolated/preview/9eee08cd0243443fb95d824856e6d5a7-ilustracao-de-aviao-de-papel.png" />
+  <img height="200px" align="right" src="https://images.vexels.com/media/users/3/145066/isolated/preview/9eee08cd0243443fb95d824856e6d5a7-ilustracao-de-aviao-de-papel.png" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 Estudante de Desenvolvemento de Software na Trybe</li>
     <li>- 🌱 Aprendendo SGBD-MySQL</li>
@@ -34,7 +34,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="node" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 </div>
 
 <br>
