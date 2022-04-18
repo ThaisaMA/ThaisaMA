@@ -4,11 +4,8 @@
 <div align="center">
   <img height="200px" align="right" src="https://images.vexels.com/media/users/3/145066/isolated/preview/9eee08cd0243443fb95d824856e6d5a7-ilustracao-de-aviao-de-papel.png" />
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Estudante de Desenvolvemento de Software na Trybe</li>
-    <li>- 🌱 Aprendendo SGBD-MySQL</li>
-    <li>- 💬 Me pergunte sobre [Coloque aqui o que você gostaria de conversar]</li>
-    <li>- 😄 Pronomes: [seus pronomes aqui]</li>
-    <li>- ⚡ Fun fact: [alguma curiosidade sua]</li>
+    <li>- 🔭 Estudante de Desenvolvimento de Software</li>
+    <li>- 🌱 Aprendendo Python</li>
   </div>
 </div>
 
